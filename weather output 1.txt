@@ -1,0 +1,10 @@
+Enter the city name: rajasthan
+-------------------------------------------------------------
+Weather Stats for - RAJASTHAN  || 23 Jun 2021 | 02:19:13 PM
+-------------------------------------------------------------
+Current temperature is: 38.24 deg C
+('Current weather desc  :', u'broken clouds')
+('Current Humidity      :', 32, '%')
+('Current wind speed    :', 5.24, 'kmph')
+
+Process finished with exit code 0
